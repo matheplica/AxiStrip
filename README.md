@@ -1,5 +1,5 @@
 # AxiStrip
-Processing tool to draw strip with AxiDraw
+Processing tool to draw comix strip with AxiDraw
 
 
 ## How to use
