@@ -1,5 +1,6 @@
 # AxiStrip
-Processing tool to draw comix strip with AxiDraw [AxiStrip on Vimeo](https://vimeo.com/matheplica/axistrip)
+Processing tool to draw comix strip with AxiDraw 
+[AxiStrip on Vimeo](https://vimeo.com/matheplica/axistrip)
 
 
 ## How to use
